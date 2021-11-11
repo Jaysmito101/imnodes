@@ -11,6 +11,11 @@ project "ImNodes"
 		"imnodes.cpp"
 	}
 
+	includedirs {
+		"../imgui"
+	}
+
+
   links
   {
     "ImGui"
