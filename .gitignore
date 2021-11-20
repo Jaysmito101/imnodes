@@ -9,6 +9,7 @@ TODO.md
 bin/
 build/
 lib/
+bin-int/
 imnodes.sln
 
 # Created by https://www.toptal.com/developers/gitignore/api/sublimetext
